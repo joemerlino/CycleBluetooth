@@ -2,6 +2,7 @@ Package: com.joemerlino.cyclebluetooth
 Name: CycleBluetooth
 Depends: mobilesubstrate, com.a3tweaks.flipswitch (>= 1.0.3), preferenceloader
 Version: 0.0.1
+Conflicts: com.myrepospace.inonio.cyclebt
 Architecture: iphoneos-arm
 Description: Automatically restarts Bluetooth on respring if it was enabled before.
 Maintainer: Joe Merlino <merlino.giuseppe1@gmail.com>
